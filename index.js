@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
-const dialogflow = require('./dialogflow');
-const youtube = require('./youtube');
+const dialogflow = require('./js/dialogflow');
+const youtube = require('./js/youtube');
 
 const token = '1270716991:AAFMS5YtjnRSidpKShKLgHTMxV2c7GBLxIQ';
 

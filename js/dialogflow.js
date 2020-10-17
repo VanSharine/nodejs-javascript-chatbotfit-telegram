@@ -1,5 +1,5 @@
 const dialogflow = require('dialogflow');
-const configs = require('./dio-bot-fit');
+const configs = require('../json/dio-bot-fit');
 
 const sessionClient = new dialogflow.SessionsClient({
 	projectId:configs.project_id,
