@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-Portfolio/nodejs-javascript-chatbotfit-Telegram-.git"
+  },
+  "author": "Vanessa Camelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer-Portfolio/nodejs-javascript-chatbotfit-Telegram-/issues"
+  },
+  "homepage": "https://github.com/Developer-Portfolio/nodejs-javascript-chatbotfit-Telegram-#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}

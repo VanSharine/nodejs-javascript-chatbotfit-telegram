@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitbot-jfwe",
+  "private_key_id": "ebf0f2b62a54dbb7c0b53ddf3a7d4be0e9702003",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuUSxBcGKkQ4fY\nYlP2H+veVfq+LIyBu/8kG/imjPc7fH4SHV85awGDCwFQp/K9ctShRdrkvLdi/4nc\n2YYmkn8hjCUccvgA4zyIHtERKPWau7eGYkH4IkmezIU8Hvqf3Ri7wFd5rhYtzUst\n64KptW4kki+31a/AIQgCy2K+UBdC8odNCDzbB9jl/uFpKvVVH7xl75Ukbo3EpZx1\nTYNcGnTTm9JrDT8v+5XpasibCNGj2nvZnO6L4gwObDCSJQ4CrKd/qUQbsUxyRQU1\nP5Ph4DqNGgODfquW/Jvrp5veJxSQyC0xcoxuGUfqUbHviST/4V/Lvw1dqwTjqUV5\nnp03VoCjAgMBAAECggEAGfD4jhCEjX+DQt93MUSU3HSdKRoGGvR4Rs5m1Zpa3J5t\nQJLgbfIPuomzu2YTCMCDBjEYHzw6amAvCw/QGANrKfnqN+6gG7m1c2hqoowe6NUQ\nvc33lU68+AXlugm+MHY9zQsVuYT/xfcsPfwzaMAYURb0RP5m9ke0In5UBpBytcKU\nsEdYvIQqvFo60fLAz1kkkwqtnRP9xg1NleEge7QOumyPFUTWLETOQkkBzU/koere\ngvD/qMY4O2waUDFdInZCO1qR78Tq7J8vjO8WQStELcUH/J/zagKHmZ0ZMQpPQYPh\nVTzyolX4V3APiHpab67KuM2buBosuMf9Twzi3nyJOQKBgQDt5t1WR1ZmSS1XRTVF\n/xmLKi4yGd++YafZwa9EPJAPj+WUsIBS1ecf+zanmwFoBoH4Yg7otYSSAOc/QSQL\nzB2orbdqRFVqR7s19g7RQ4avv7kI+EXrXfqae9cdbta+FbzF8Fu2SZuw0APmB7uQ\nICt2kEvSaLMqI7m02wv5/1d5dwKBgQC7k/8KEXpLGF7NuapHoE7m+Nd/PQR8Oxd+\nUec1Gc3lG4SlC/LcNNWHkSV0LDaA5uFjKQhZu6XDtwxqz+xQ/StdYHO/Dx08mpA1\nqil1T3xxf3ffpfhqSWNlrOb3ss+2lJSiNHTVyzr6/kKW1+0Ax6KHd8KXb/h9M6wa\ntfsv0j89NQKBgBcKM8dmU0TGs4BvMHCd+xBSPnUVsmiStpnNOzclkmIfcoGK8nKT\nSrX7M1jaFzHG55FxlbYN1k/5jGvA2EfYNcsfP9Mn2QnY9pWMRfUYUBP3QmlO+h6I\nVHvfoH62PE/edRDKbWdjC5P9IVOGzjBwHSV3ZhBzmV5sZVDRogBNLWCTAoGBAItA\n0oyZ7w0C2ZamqCgmdYz43ZqDJOpJQCayDRAZyQW2CSIyHaimvIK5GXIGRKwrOtXP\np3heWzBRmzFMjKaPXHsk2KjVQqI0KKz+V2rUiJEFzWtGHoZhVx4rXwgyQgvMgA9v\nG/F/v5iH2816HWN/0UP6f4bHRFVGYBUwVnro/bOlAoGBAObp5J450wFiCGwjBw+r\n4sJprd45Xjxa9TTFE3inTjB5doNDIB76OfYQrrBE9SMbF7h6Jze5kaHP6zhYD/px\n4rIsH7bcwrGVC+B4c/20VCe2zunFsmvntFnjZocpEEL/LmCAH1G0yxzEIhVNkrA4\nK47ZYqLfX4nbqO0/Yvr+60L0\n-----END PRIVATE KEY-----\n",
+  "client_email": "fitbot@fitbot-jfwe.iam.gserviceaccount.com",
+  "client_id": "111458014714832616568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fitbot%40fitbot-jfwe.iam.gserviceaccount.com"
+}
